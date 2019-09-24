@@ -1,4 +1,4 @@
-# APIHackCapstone : Pitch Count
+Pitch Count
 
 My capstone project that uses MLB's API to retrieve pitching data. 
 
